@@ -5,7 +5,7 @@ A Lazy Deliminated String Parser. Thread-safe, Light-weight, and Header Only. C+
 It can parse any single-character seperated strings on-the-fly. At minimum, `C++17` is required.
 ```cpp
 #include <iostream>
-#include "lazyparser.hpp"
+#include "LazyParser.hpp"
 
 
 void test_single_line(std::string_view line, char delim = ',') {
