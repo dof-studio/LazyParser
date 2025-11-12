@@ -81,3 +81,8 @@ int main() {
 
 }
 ```
+
+# TODO
+
+Make checking 'delim' and 'end' more generic by using methods. So, you may derive the class to make checking easier.
+
